@@ -1,10 +1,10 @@
-#include "code10_1.h"
-#include "code10_2.h"
+#include "code10.h"
 
 int main() {
 	//decToHex();
-	whatIsNumber();
-
+	//whatIsNumber();
+	//getGCD();
+	FibonacciSequence();
 	return 0;
 
 }
